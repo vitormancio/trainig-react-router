@@ -1,0 +1,15 @@
+.wrap-app {
+    text-align: center;
+    margin-top: 3rem;
+
+    h1 {
+        margin-bottom: 2rem;
+    }
+
+    p:nth-child(even) {
+        margin-bottom: 2rem;
+    }
+}
+
+
+
